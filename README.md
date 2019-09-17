@@ -49,3 +49,6 @@ function2(1)
 
 ## Conclusions
 Writing this code here so that I can remove it later maybe if this works. 
+
+## OK NOW THIS IS THE SECTION THAT I WILL REMOVE
+FOR REAL FOR REAL FOR REAL
