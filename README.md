@@ -26,3 +26,26 @@ function('bye')
     'hi'
 
 
+
+## Second Test
+This is the second test:
+
+
+```python
+def function2(var2):
+    var2 = str(var2)
+    var2 += ' blah'
+    return var2
+
+function2(1)
+```
+
+
+
+
+    '1 blah'
+
+
+
+## Conclusions
+Writing this code here so that I can remove it later maybe if this works. 
